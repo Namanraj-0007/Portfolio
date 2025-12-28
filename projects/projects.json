@@ -28,5 +28,15 @@
       "view": "https://smart-finance-dashboard.herokuapp.com/",
       "code": "https://github.com/namandip-raj/smart-finance-dashboard"
     }
+  },
+  {
+    "name": "IncomeTax Calculator",
+    "desc": "A user-friendly and optimized Income Tax Calculator web application that accurately computes tax liabilities based on income slabs, deductions, exemptions, and tax regimes. Features interactive forms, real-time calculations, and detailed breakdowns for better financial planning. Built with modern web technologies for seamless performance and responsive design.",
+    "image": "income_tax_calculator",
+    "category": "web",
+    "links": {
+      "view": "https://income-tax-calculator-demo.netlify.app/",
+      "code": "https://github.com/NamanRaj0007/income-tax-calculator"
+    }
   }
 ]

@@ -90,7 +90,8 @@ header .logo {
   font-size: 1.9rem;
   font-weight: 800;
   text-decoration: none;
-  color: #0e2431;
+  color: #ff0000;
+  text-transform: uppercase;
 }
 header .logo i {
   font-size: 2.2rem;
