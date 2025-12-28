@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Crop Yield Prediction",
+    "desc": "An AI-powered web application that predicts crop yields based on soil data, weather conditions, and historical trends. Built using Python, Flask, and machine learning models.",
+    "image": "https://via.placeholder.com/300x200/4CAF50/FFFFFF?text=Crop+Yield+Prediction",
+    "category": "ai",
+    "links": {
+      "view": "https://crop-yield-prediction-demo.herokuapp.com/",
+      "code": "https://github.com/namandip-raj/crop-yield-prediction"
+    }
+  },
+  {
+    "name": "AI Powered Chatbot",
+    "desc": "A conversational AI chatbot for customer support, integrated with natural language processing. Developed using Node.js, Express, and Dialogflow API.",
+    "image": "https://via.placeholder.com/300x200/2196F3/FFFFFF?text=AI+Chatbot",
+    "category": "ai",
+    "links": {
+      "view": "https://ai-chatbot-demo.netlify.app/",
+      "code": "https://github.com/NamanRaj0007/ai-chatbot"
+    }
+  },
+  {
+    "name": "Smart Finance Dashboard",
+    "desc": "A comprehensive financial dashboard for tracking expenses, investments, and budgets. Features real-time data visualization and predictive analytics. Built with React, Node.js, and MongoDB.",
+    "image": "https://via.placeholder.com/300x200/FF9800/FFFFFF?text=Finance+Dashboard",
+    "category": "mern",
+    "links": {
+      "view": "https://smart-finance-dashboard.herokuapp.com/",
+      "code": "https://github.com/namandip-raj/smart-finance-dashboard"
+    }
+  },
+  {
+    "name": "Income Tax Calculator",
+    "desc": "A web-based calculator for estimating income tax based on user inputs like income, deductions, and tax slabs. Built with HTML, CSS, and JavaScript.",
+    "image": "https://via.placeholder.com/300x200/9C27B0/FFFFFF?text=Income+Tax+Calculator",
+    "category": "web",
+    "links": {
+      "view": "https://incometax-calculator-demo.netlify.app/",
+      "code": "https://github.com/Namanraj-0007/incometax-calculator"
+    }
+  }
+]
