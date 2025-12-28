@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Crop Yield Prediction",
+    "desc": "An AI-powered web application that predicts crop yields based on soil data, weather conditions, and historical trends. Built using Python, Flask, and machine learning models.",
+    "image": "crop_yield",
+    "category": "ai",
+    "links": {
+      "view": "https://crop-yield-prediction-demo.herokuapp.com/",
+      "code": "https://github.com/namandip-raj/crop-yield-prediction"
+    }
+  },
+  {
+    "name": "AI Powered Chatbot",
+    "desc": "A conversational AI chatbot for customer support, integrated with natural language processing. Developed using Node.js, Express, and Dialogflow API.",
+    "image": "ai_chatbot",
+    "category": "ai",
+    "links": {
+      "view": "https://ai-chatbot-demo.netlify.app/",
+      "code": "https://github.com/NamanRaj0007/ai-chatbot"
+    }
+  },
+  {
+    "name": "Smart Finance Dashboard",
+    "desc": "A comprehensive financial dashboard for tracking expenses, investments, and budgets. Features real-time data visualization and predictive analytics. Built with React, Node.js, and MongoDB.",
+    "image": "finance_dashboard",
+    "category": "mern",
+    "links": {
+      "view": "https://smart-finance-dashboard.herokuapp.com/",
+      "code": "https://github.com/namandip-raj/smart-finance-dashboard"
+    }
+  }
+]
