@@ -71,13 +71,15 @@ This isn't just a portfolio website—it's a digital representation of my journe
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="./assets/images/mainpageportfolio.png" alt="Main Page_Portfolio Screenshot" width="400">
+  <img width="1919" height="874" alt="Main Page_Portfolio" src="https://github.com/user-attachments/assets/6e905448-4dc4-4a93-a77c-ba8bbed8ea16" />
+
 
   <img width="1919" height="866" alt="Second Page_Portfolio " src="https://github.com/user-attachments/assets/45c6b981-af7d-447e-a6f1-d9d75304b755" />
 
+  <img width="1919" height="869" alt="ThirdPagePortfolio" src="https://github.com/user-attachments/assets/eaf633ad-9abb-4ea9-902b-8b86e2c9f923" />
+
+
  
-  <br>
-  <em>Main page and second page portfolio screenshots</em>
 </div>
 
 ## 🚀 Getting Started
