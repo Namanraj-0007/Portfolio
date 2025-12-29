@@ -68,13 +68,18 @@ This isn't just a portfolio website—it's a digital representation of my journe
 - ✅ **Experience Section**: Timeline of professional journey
 - ✅ **Contact Section**: Multiple ways to get in touch
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="assets/images/mainpage_screenshot.png" alt="Main Page Portfolio Screenshot" width="420" />
-  <img src="assets/images/secondpage_screenshot.png" alt="Second Page Portfolio Screenshot" width="420" />
-  <br><br>
+  <img src="./assets/images/mainpageportfolio.png" alt="Main Page Portfolio Screenshot" width="400">
+  <img src="./assets/images/secondpageportfolio.png" alt="Second Page Portfolio Screenshot" width="400">
+  <br>
+  <em>Main page and second page portfolio screenshots</em>
+=======
+  <img src="./assets/images/mainpageportfolio.png" alt="Main Page Portfolio Screenshot" width="400">
+  <img src="./assets/images/secondpageportfolio.png" alt="Second Page Portfolio Screenshot" width="400">
+  <br>
+  <em>Main page and second page portfolio screenshots</em>
+=======
   <em>Main portfolio page and second page showcasing projects & details</em>
+>>>>>>> 46457fdf4b5c0c324e2c6c82c5bb9d956af8e6ff
 </div>
 
 
