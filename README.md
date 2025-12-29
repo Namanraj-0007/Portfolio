@@ -70,7 +70,13 @@ This isn't just a portfolio website—it's a digital representation of my journe
 
 ## 📸 Screenshots
 
-<div align="center"> <img src="./assets/images/mainpage_screenshot.png" alt="Main Page Portfolio Screenshot" width="420"> <img src="./assets/images/secondpage_screenshot.png" alt="Second Page Portfolio Screenshot" width="420"> <br><br> <em>Main portfolio page and second page showcasing projects & details</em> </div>
+<div align="center">
+  <img src="assets/images/mainpage_screenshot.png" alt="Main Page Portfolio Screenshot" width="420" />
+  <img src="assets/images/secondpage_screenshot.png" alt="Second Page Portfolio Screenshot" width="420" />
+  <br><br>
+  <em>Main portfolio page and second page showcasing projects & details</em>
+</div>
+
 
 ## 🚀 Getting Started
 
