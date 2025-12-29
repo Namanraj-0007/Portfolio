@@ -78,7 +78,7 @@ This isn't just a portfolio website—it's a digital representation of my journe
 
   <img width="1919" height="869" alt="ThirdPagePortfolio" src="https://github.com/user-attachments/assets/eaf633ad-9abb-4ea9-902b-8b86e2c9f923" />
 
-
+ **And so on ....**
  
 </div>
 
