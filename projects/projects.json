@@ -38,5 +38,25 @@
       "view": "https://incometax-calculator-demo.netlify.app/",
       "code": "https://github.com/Namanraj-0007/incometax-calculator"
     }
+  },
+  {
+    "name": "AI Interview Agent (Intervo)",
+    "desc": "AI interview platform using voice + conversational AI to assess responses, give instant feedback, and generate performance reports.",
+    "image": "nr",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "DesignifyAI",
+    "desc": "Figma-to-React AI generator (Gemini API) that converts UI designs into reusable React components with live preview.",
+    "image": "nr",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
   }
 ]

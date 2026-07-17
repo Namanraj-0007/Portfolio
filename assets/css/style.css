@@ -793,10 +793,23 @@ header .navbar ul li a:hover {
   height: 60%;
   width: 100%;
   object-fit: cover;
-  transition: all 0.3s ease;
+  transition: all 0.4s ease;
+  transform: translateZ(0);
+  filter: saturate(1.05) contrast(1.05);
+}
+
+/* 3D-ish lift on image */
+.work .box-container .box img {
+  transform: perspective(800px) rotateX(2deg) translateY(0);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
+}
+
+.work .box-container .box:hover img {
+  transform: perspective(900px) rotateX(6deg) scale(1.06) translateY(-6px);
+  box-shadow: 0 18px 45px rgba(0, 0, 0, 0.5);
 }
 .work .box-container .box:hover img {
-  transform: scale(1.1);
+  transform: perspective(900px) rotateX(6deg) scale(1.06) translateY(-6px);
 }
 .work .box-container .box .content {
   height: 40%;
