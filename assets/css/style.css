@@ -811,6 +811,33 @@ header .navbar ul li a:hover {
 .work .box-container .box:hover img {
   transform: perspective(900px) rotateX(6deg) scale(1.06) translateY(-6px);
 }
+
+/* make buttons look premium */
+.work .desc .btns .btn {
+  border: 1px solid rgba(255, 0, 0, 0.35);
+  box-shadow: 0 10px 25px rgba(102, 126, 234, 0.18);
+}
+
+.work .desc .btns .btn:focus {
+  outline: 2px solid rgba(255, 0, 0, 0.6);
+  outline-offset: 2px;
+}
+
+/* work section on smaller screens */
+@media (max-width: 520px) {
+  .work .box-container {
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    margin: 1rem;
+  }
+  .work .box-container .box {
+    height: auto;
+    min-height: 32rem;
+  }
+  .work .box-container .box img {
+    height: 55%;
+  }
+}
+
 .work .box-container .box .content {
   height: 40%;
   width: 100%;
