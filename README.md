@@ -1,36 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:2563EB,50:7C3AED,75:06B6D4,100:0EA5E9&text=Namandip%20Raj&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Software%20Developer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25,30&text=Namandip%20Raj&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Software%20Developer&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;AI+Powered+Solutions;Modern+Full+Stack+Developer;React+%7C+Node.js+%7C+FastAPI+%7C+TypeScript;Always+Learning+New+Technologies+🚀"/>
+<h1 align="center">
+⚡ Welcome to My Digital Universe ⚡
+</h1>
 
 <p align="center">
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/🌐 Live Portfolio-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Namanraj-0007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=FF003C&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;Building+Modern+Web+Applications;React+•+Node.js+•+FastAPI;Always+Learning+Something+New+🚀" />
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Namanraj-0007&theme=algolia&row=1&column=7&margin-w=15&margin-h=15"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Portfolio-Live-red?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Expert-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/FastAPI-AI%20Powered-009688?style=for-the-badge&logo=fastapi"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Namanraj-0007&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Namanraj-0007&theme=tokyonight&hide_border=true"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,100:7C3AED"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Namanraj-0007&theme=redical&hide_border=true"/>
 
 </div>
 
