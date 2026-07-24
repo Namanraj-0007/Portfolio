@@ -39,18 +39,27 @@ $(document).ready(function () {
 
     // <!-- emailjs to mail contact form data -->
     $("#contact-form").submit(function (event) {
+        event.preventDefault();
         emailjs.init("Tl-ipH3T8XweKxVLA");
 
-        emailjs.sendForm('service_02r4g1n', 'template_y2wo8mg', '#contact-form')
+        // Send admin notification
+        emailjs.sendForm('service_at3kuip', 'template_y5am5de', '#contact-form')
             .then(function (response) {
-                console.log('SUCCESS!', response.status, response.text);
-                document.getElementById("contact-form").reset();
-                alert("Form Submitted Successfully");
+                console.log('Admin notification sent!', response.status, response.text);
             }, function (error) {
-                console.log('FAILED...', error);
+                console.log('Admin notification failed...', error);
+            });
+
+        // Send auto-reply to visitor
+        emailjs.sendForm('service_at3kuip', 'template_kj7s16m', '#contact-form')
+            .then(function (response) {
+                console.log('Auto-reply sent!', response.status, response.text);
+                document.getElementById("contact-form").reset();
+                alert("Form Submitted Successfully! Check your email for confirmation.");
+            }, function (error) {
+                console.log('Auto-reply failed...', error);
                 alert("Form Submission Failed! Try Again");
             });
-        event.preventDefault();
     });
     // <!-- emailjs to mail contact form data -->
 
@@ -107,13 +116,31 @@ function showSkills(skills) {
 function showProjects(projects) {
     let projectsContainer = document.querySelector("#work .box-container");
     let projectHTML = "";
+    
+    function getCategoryBadge(category) {
+        const badges = {
+            'ai': { label: 'AI', icon: 'robot' },
+            'mern': { label: 'MERN', icon: 'layer-group' },
+            'web': { label: 'WEB', icon: 'code' },
+            'basicweb': { label: 'AI + WEB', icon: 'wand-magic-sparkles' }
+        };
+        return badges[category] || { label: category.toUpperCase(), icon: 'code' };
+    }
+    
     projects.slice(0, 10).filter(project => project.category != "android").forEach(project => {
+        const badge = getCategoryBadge(project.category);
         projectHTML += `
         <div class="box tilt">
-      <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
+      <div class="project-image-wrapper">
+        <img draggable="false" src="./assets/images/${project.image}.png" alt="${project.name}" />
+        <div class="project-image-overlay">
+          <i class="fas fa-${badge.icon}"></i>
+        </div>
+      </div>
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
+        <span class="project-category-badge ${project.category}">${badge.label}</span>
         </div>
         <div class="desc">
           <p>${project.desc}</p>
