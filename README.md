@@ -1,30 +1,36 @@
 <div align="center">
 
-# 🚀 Namandip Raj | Developer Portfolio
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:2563EB,50:7C3AED,75:06B6D4,100:0EA5E9&text=Namandip%20Raj&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Software%20Developer&descAlignY=58&animation=fadeIn"/>
 
-### ✨ A Modern 3D Developer Portfolio showcasing my projects, skills, achievements, and professional journey.
-
-<p align="center">
-
-<img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
-
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;AI+Powered+Solutions;Modern+Full+Stack+Developer;React+%7C+Node.js+%7C+FastAPI+%7C+TypeScript;Always+Learning+New+Technologies+🚀"/>
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Live%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/🌐 Live Portfolio-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Namanraj-0007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Namanraj-0007&theme=algolia&row=1&column=7&margin-w=15&margin-h=15"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Namanraj-0007&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Namanraj-0007&theme=tokyonight&hide_border=true"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,100:7C3AED"/>
 
 </div>
 
