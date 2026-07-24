@@ -1,185 +1,228 @@
-# 🚀 Namandip Raj - Portfolio Website
+<div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/Namanraj-0007/Portfolio-Website?style=for-the-badge)](https://github.com/Namanraj-0007/Portfolio-Website/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Namanraj-0007/Portfolio-Website?style=for-the-badge)](https://github.com/Namanraj-0007/Portfolio-Website/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/Namanraj-0007/Portfolio-Website?style=for-the-badge)](https://github.com/Namanraj-0007/Portfolio-Website/issues)
-[![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)](https://github.com/Namanraj-0007/Portfolio-Website/blob/main/LICENSE)
+# 🚀 Namandip Raj | Developer Portfolio
 
-A modern, responsive portfolio website showcasing my skills, projects, and experience as a Full-Stack Developer. Built with clean code and stunning animations.
+### ✨ A Modern 3D Developer Portfolio showcasing my projects, skills, achievements, and professional journey.
 
-<a href="https://github.com/Namanraj-0007/Portfolio-Website" target="_blank">**📂 Repository**</a>
+<p align="center">
 
----
+<img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
 
-## ✨ Features
+</p>
 
-- 🎨 **Modern Design**: Clean, professional design with smooth animations
-- 📱 **Fully Responsive**: Optimized for all devices (desktop, tablet, mobile)
-- ⚡ **Fast Loading**: Optimized performance with minimal load times
-- 🎯 **Interactive Elements**: Hover effects, particle animations, and smooth scrolling
-- 📧 **Contact Form**: Functional contact form with email integration
-- 🌙 **Dark Theme Ready**: Built with modern CSS for easy theme switching
-- 🔍 **SEO Optimized**: Proper meta tags and semantic HTML
-- ♿ **Accessibility**: WCAG compliant with proper ARIA labels
+<p align="center">
 
----
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Live%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-## 🛠️ Tech Stack
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### Frontend
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+<a href="https://github.com/Namanraj-0007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### Libraries & Frameworks
-[![Particles.js](https://img.shields.io/badge/Particles.js-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://vincentgarreau.com/particles.js/)
-[![Typed.js](https://img.shields.io/badge/Typed.js-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/mattboldt/typed.js/)
-[![Tilt.js](https://img.shields.io/badge/Tilt.js-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://gijsroge.github.io/tilt.js/)
-[![ScrollReveal](https://img.shields.io/badge/ScrollReveal-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://scrollrevealjs.org/)
+</p>
 
-### Tools & Platforms
-[![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)](https://fontawesome.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://netlify.com/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://pages.github.com/)
+</div>
 
 ---
 
-## 📁 Project Structure
+# 🌟 About
 
+This portfolio represents my journey as a **Full Stack Developer & AI Engineer**, featuring real-world projects, technical skills, achievements, and interactive experiences.
+
+Built with a modern UI inspired by premium SaaS products and developer portfolios.
+
+---
+
+# ✨ Features
+
+✅ Modern UI/UX
+
+✅ Responsive Design
+
+✅ 3D Interactive Elements
+
+✅ Smooth Animations
+
+✅ Project Showcase
+
+✅ Experience Timeline
+
+✅ Skills Visualization
+
+✅ Contact Form with EmailJS
+
+✅ Resume Download
+
+✅ Dark Theme
+
+---
+
+# 🖥 Portfolio Preview
+
+## 🏠 Home Page
+
+> Replace with your screenshot
+
+<p align="center">
+
+<img src="screenshots/home.png" width="100%"/>
+
+</p>
+
+---
+
+## 👨‍💻 About
+
+<p align="center">
+
+<img src="screenshots/about.png" width="100%"/>
+
+</p>
+
+---
+
+## 🚀 Projects
+
+<p align="center">
+
+<img src="screenshots/projects.png" width="100%"/>
+
+</p>
+
+---
+
+## 💼 Experience
+
+<p align="center">
+
+<img src="screenshots/experience.png" width="100%"/>
+
+</p>
+
+---
+
+## 📬 Contact
+
+<p align="center">
+
+<img src="screenshots/contact.png" width="100%"/>
+
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,fastapi,python,mongodb,tailwind,vite,git,github,vscode,docker,aws&perline=7"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 Designify AI | AI-powered Figma & Screenshot to React Code Generator |
+| 🎤 Intervo | AI Interview Preparation Platform |
+| 🌾 Crop Yield Prediction | Machine Learning based agricultural prediction |
+| 💰 Smart Finance Dashboard | Personal finance analytics platform |
+| 🧾 Income Tax Calculator | Intelligent tax estimation tool |
+| 💬 ChatNova | AI-powered chatbot assistant |
+
+---
+
+# ⚙ Installation
+
+```bash
+git clone https://github.com/Namanraj-0007/Portfolio.git
+
+cd Portfolio
+
+npm install
+
+npm run dev
 ```
-Portfolio-Website/
+
+---
+
+# 🚀 Deployment
+
+```bash
+npm run build
+```
+
+Deploy easily on
+
+- Vercel
+- Netlify
+- GitHub Pages
+
+---
+
+# 📊 Project Structure
+
+```text
+Portfolio/
+│
 ├── assets/
-│   ├── css/
-│   │   ├── style.css          # Main stylesheet
-│   │   └── 404.css           # 404 page styles
-│   ├── js/
-│   │   ├── script.js         # Main JavaScript
-│   │   ├── particles.min.js  # Particle animation
-│   │   └── app.js           # Particle config
-│   └── images/               # Images and assets
-├── experience/
-│   ├── index.html           # Experience page
-│   ├── style.css           # Experience page styles
-│   └── script.js           # Experience page JS
-├── projects/
-│   ├── index.html          # Projects page
-│   ├── style.css          # Projects page styles
-│   ├── script.js          # Projects page JS
-│   └── projects.json      # Projects data
-├── index.html              # Home page
-├── 404.html               # 404 error page
-├── README.md              # Project documentation
-└── LICENSE               # MIT License
+├── components/
+├── pages/
+├── scripts/
+├── styles/
+├── screenshots/
+├── index.html
+└── README.md
 ```
 
 ---
 
-## 🚀 Quick Start
+# 📈 Future Improvements
 
-### Prerequisites
-- A modern web browser
-- Git (for cloning the repository)
-- A code editor (VS Code recommended)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/namandip-raj/Portfolio-Website.git
-   cd Portfolio-Website
-   ```
-
-2. **Open in browser**
-   - Open `index.html` in your preferred web browser
-   - Or use a local server for better development experience
-
-3. **For development**
-   ```bash
-   # Using Python (if available)
-   python -m http.server 8000
-
-   # Using Node.js (if available)
-   npx serve .
-
-   # Using PHP (if available)
-   php -S localhost:8000
-   ```
+- AI Assistant
+- Blog Section
+- Theme Switcher
+- Multi-language Support
+- Admin Dashboard
+- Analytics Integration
 
 ---
 
-## 📸 Screenshots
+# 📬 Connect With Me
 
-### Home Page
-![Home Page](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
+<p align="center">
 
-### Projects Section
-![Projects](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+<a href="YOUR_PORTFOLIO_LINK">
+Portfolio
+</a>
 
----
+•
 
-## 🎯 Usage
+<a href="https://github.com/Namanraj-0007">
+GitHub
+</a>
 
-### Navigation
-- Use the navigation menu to explore different sections
-- Smooth scrolling between sections
-- Mobile-friendly hamburger menu
+•
 
-### Contact Form
-- Fill out the contact form to send messages
-- Integrated with email service for direct communication
+<a href="YOUR_LINKEDIN">
+LinkedIn
+</a>
 
-### Projects
-- Browse through featured projects
-- Filter projects by technology/category
-- Click "View" to see live demos
-- Click "Code" to view source code on GitHub
+</p>
 
 ---
 
-## 🤝 Contributing
+<div align="center">
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Namanraj-0007/Portfolio-Website/issues).
+### ⭐ If you like this portfolio, consider giving it a Star ⭐
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Made with ❤️ by **Namandip Raj**
 
----
-
-## 📄 License
-
-This project is proprietary software. All rights reserved. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Contact
-
-**Namandip Raj** - Full Stack Developer
-
-- **LinkedIn**: [linkedin.com/in/namandip-raj-48b639250](https://www.linkedin.com/in/namandip-raj-48b639250)
-- **GitHub**: [github.com/Namanraj-0007](https://github.com/Namanraj-0007)
-- **Email**: namandraj0007@gmail.com
-
----
-
-## 🙏 Acknowledgments
-
-- **Icons**: [Font Awesome](https://fontawesome.com/)
-- **Fonts**: Google Fonts
-- **Animations**: Various open-source libraries
-- **Inspiration**: Modern web design trends
-
----
-
-## 📊 GitHub Stats
-
-![Namandip's GitHub stats](https://github-readme-stats.vercel.app/api?username=Namanraj-0007&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namanraj-0007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-⭐ **If you like this project, please give it a star!** ⭐
+</div>
