@@ -127,6 +127,8 @@ function showProjects(projects) {
         return badges[category] || { label: category.toUpperCase(), icon: 'code' };
     }
     
+    const githubProfile = "https://github.com/Namanraj-0007";
+
     projects.slice(0, 10).filter(project => project.category != "android").forEach(project => {
         const badge = getCategoryBadge(project.category);
         projectHTML += `
@@ -145,8 +147,8 @@ function showProjects(projects) {
         <div class="desc">
           <p>${project.desc}</p>
           <div class="btns">
-            <a href="${project.links.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
-            <a href="${project.links.code}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
+            <a href="${githubProfile}" class="btn" target="_blank" rel="noopener noreferrer"><i class="fas fa-eye"></i> View</a>
+            <a href="${githubProfile}" class="btn" target="_blank" rel="noopener noreferrer">Code <i class="fas fa-code"></i></a>
           </div>
         </div>
       </div>
